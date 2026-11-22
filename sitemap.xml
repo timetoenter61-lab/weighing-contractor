@@ -2,31 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://kineticmeasure.com.au/</loc>
+    <loc>https://kineticmeasure.shop/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://kineticmeasure.com.au/architecture.html</loc>
+    <loc>https://kineticmeasure.shop/architecture.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://kineticmeasure.com.au/monitoring.html</loc>
+    <loc>https://kineticmeasure.shop/monitoring.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 
   <url>
-    <loc>https://kineticmeasure.com.au/prices.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-
-  <url>
-    <loc>https://kineticmeasure.com.au/privacy.html</loc>
+    <loc>https://kineticmeasure.shop/privacy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
